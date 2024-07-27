@@ -1,0 +1,1 @@
+This repo contains the code for course: https://github.com/LinkedInLearning/sql-for-finance-income-statement-project-4477127
